@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = https://te.legra.ph/file/90945b94d32c67ca0f3b6"""<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
